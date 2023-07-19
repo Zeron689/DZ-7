@@ -1,0 +1,32 @@
+:root{
+    --headings-colors:#212121;
+    --accent-color:#2196F3;
+    --center-color:#000000;
+    --wfe-color:#FFFFFF;
+    --r-color:#757575;
+    --afawf-color:#2F303A;
+    --afawqefwq-color:#ECECEC;
+    --afawqefwq-color: #F5F4FA;
+}
+
+
+
+a{
+    color: aqua;
+}
+ 
+.link {
+color: red;
+}
+
+a [href^="https"]{
+    color: red;
+}
+
+a [href*="YouTube"]{
+    color: red;
+}
+
+a [href$=".com/"]{
+    color: red;
+}
